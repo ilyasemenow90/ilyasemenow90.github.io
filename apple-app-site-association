@@ -3,11 +3,11 @@
         "apps": [],
         "details": [{
                 "appID": "TXR7NRCG98.com.intouch.patient.demo",
-                "paths": ["/openPatientApp/*"]
+                "paths": ["*"]
             },
             {
                 "appID": "TXR7NRCG98.com.intouch.provider",
-                "paths": ["/openProviderApp/*"]
+                "paths": ["*"]
             }
         ]
     }
