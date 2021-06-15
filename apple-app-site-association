@@ -62,7 +62,7 @@
       {
         "appID": "TXR7NRCG98.com.intouch.provider.demo",
         "paths": [
-          "/call",
+          "*/call",
           "/video-call/*"
         ]
       },
