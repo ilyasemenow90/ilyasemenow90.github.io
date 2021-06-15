@@ -5,21 +5,21 @@
       {
         "appID": "TXR7NRCG98.com.beamhealthcare.provider.app",
         "paths": [
-          "/appoinment/*/call",
+          "/appointment/*/call",
           "/video-call/*"
         ]
       },
       {
         "appID": "TXR7NRCG98.com.intouch.provider",
         "paths": [
-          "/appoinment/*/call",
+          "/appointment/*/call",
           "/video-call/*"
         ]
       },
       {
         "appID": "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisitProvider",
         "paths": [
-          "/appoinment/*/call",
+          "/appointment/*/call",
           "/video-call/*"
         ]
       },
@@ -62,7 +62,7 @@
       {
         "appID": "TXR7NRCG98.com.intouch.provider.demo",
         "paths": [
-          "/appoinment/*/call",
+          "/appointment/*/call",
           "/video-call/*"
         ]
       },
