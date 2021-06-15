@@ -1,14 +1,83 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [{
-                "appID": "TXR7NRCG98.com.intouch.patient.demo",
-                "paths": ["*"]
-            },
-            {
-                "appID": "TXR7NRCG98.com.intouch.provider",
-                "paths": ["*"]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TXR7NRCG98.com.beamhealthcare.provider.app",
+        "paths": [
+          "/appoinment/*/call",
+          "/video-call/*"
         ]
-    }
+      },
+      {
+        "appID": "TXR7NRCG98.com.intouch.provider",
+        "paths": [
+          "/appoinment/*/call",
+          "/video-call/*"
+        ]
+      },
+      {
+        "appID": "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisitProvider",
+        "paths": [
+          "/appoinment/*/call",
+          "/video-call/*"
+        ]
+      },
+      {
+        "appID": "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "U73RPMAX5Y.com.mclaren.healthcare.patient",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "7N69F949EZ.VMInTouch",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "C24P768PLK.org.childrensmercy.onlinecare.member",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "TXR7NRCG98.com.intouch.provider.demo",
+        "paths": [
+          "/appoinment/*/call",
+          "/video-call/*"
+        ]
+      },
+      {
+        "appID": "TXR7NRCG98.com.truclinic.patient.app",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "TXR7NRCG98.com.intouch.patient.demo",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
