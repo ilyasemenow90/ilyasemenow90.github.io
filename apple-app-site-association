@@ -5,57 +5,91 @@
       {
         "appID": "TXR7NRCG98.com.beamhealthcare.provider.app",
         "paths": [
-          "/appointment/*/call",
+          "/appointment/*",
           "/video-call/*"
         ]
       },
       {
         "appID": "TXR7NRCG98.com.intouch.provider",
         "paths": [
-          "/appointment/*/call",
+          "/appointment/*",
           "/video-call/*"
         ]
       },
       {
         "appID": "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisitProvider",
         "paths": [
-          "/appointment/*/call",
+          "/appointment/*",
           "/video-call/*"
         ]
       },
       {
         "appID": "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
         "paths": [
+          "NOT /login/*",
+          "NOT /openid/*",
+          "NOT /appointment/*",
+          "NOT /video-call/*",
           "*"
         ]
       },
       {
         "appID": "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
         "paths": [
+          "NOT /login/*",
+          "NOT /openid/*",
+          "NOT /appointment/*",
+          "NOT /video-call/*",
           "*"
         ]
       },
       {
         "appID": "U73RPMAX5Y.com.mclaren.healthcare.patient",
         "paths": [
+          "NOT /login/*",
+          "NOT /openid/*",
+          "NOT /appointment/*",
+          "NOT /video-call/*",
           "*"
         ]
       },
       {
         "appID": "7N69F949EZ.VMInTouch",
         "paths": [
+          "NOT /login/*",
+          "NOT /openid/*",
+          "NOT /appointment/*",
+          "NOT /video-call/*",
           "*"
         ]
       },
       {
         "appID": "C24P768PLK.org.childrensmercy.onlinecare.member",
         "paths": [
+          "NOT /login/*",
+          "NOT /openid/*",
+          "NOT /appointment/*",
+          "NOT /video-call/*",
           "*"
         ]
       },
       {
         "appID": "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
         "paths": [
+          "NOT /login/*",
+          "NOT /openid/*",
+          "NOT /appointment/*",
+          "NOT /video-call/*",
+          "*"
+        ]
+      },
+      {
+        "appID": "TXR7NRCG98.com.truclinic.patient.app",
+        "paths": [
+          "NOT /login/*",
+          "NOT /openid/*",
+          "NOT /appointment/*",
+          "NOT /video-call/*",
           "*"
         ]
       },
@@ -67,14 +101,12 @@
         ]
       },
       {
-        "appID": "TXR7NRCG98.com.truclinic.patient.app",
-        "paths": [
-          "*"
-        ]
-      },
-      {
         "appID": "TXR7NRCG98.com.intouch.patient.demo",
         "paths": [
+          "NOT /login/*",
+          "NOT /openid/*",
+          "NOT /appointment/*",
+          "NOT /video-call/*",
           "*"
         ]
       }
