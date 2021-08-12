@@ -107,7 +107,10 @@
           "NOT /openid/*",
           "NOT /appointment/*",
           "NOT /video-call/*",
-          "*"
+          "/*/start/*",
+          "/*/a/*",
+          "/*/*/select-a-service",
+          "/*/*/care-location/*"
         ]
       }
     ]
