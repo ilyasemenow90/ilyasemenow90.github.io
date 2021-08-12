@@ -94,6 +94,16 @@
         ]
       },
       {
+        "appID": "MJAY7RA63S.com.truclinic.patient.app",
+        "paths": [
+          "NOT /login/*",
+          "NOT /openid/*",
+          "NOT /appointment/*",
+          "NOT /video-call/*",
+          "*"
+        ]
+      },
+      {
         "appID": "TXR7NRCG98.com.intouch.provider.demo",
         "paths": [
           "/appointment/*",
