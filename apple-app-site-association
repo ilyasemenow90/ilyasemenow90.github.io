@@ -12,15 +12,11 @@
       {
         "appID": "TXR7NRCG98.com.intouch.patient.demo",
         "paths": [
-          "NOT /login/*",
-          "NOT /openid/*",
-          "NOT /appointment/*",
-          "NOT /video-call/*",
           "/*/start/*",
           "/*/a/*",
           "/*/*/select-a-service",
           "/*/*/care-location/*",
-          "/*-*-*"
+          "/*-*-*-*-*"
         ]
       }
     ]
