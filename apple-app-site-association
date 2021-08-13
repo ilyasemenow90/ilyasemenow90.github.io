@@ -19,6 +19,26 @@
           "/????????-*"
         ]
       }
+    ],
+    "appIDs": [
+      "TXR7NRCG98.com.intouch.patient.demo"
+    ],
+    "components": [
+      {
+        "/": "/*/start/*"
+      },
+      {
+        "/": "/*/a/*"
+      },
+      {
+        "/": "/*/*/select-a-service"
+      },
+      {
+        "/": "/*/*/care-location/*"
+      },
+      {
+        "/": "/????????-*"
+      }
     ]
   }
 }
