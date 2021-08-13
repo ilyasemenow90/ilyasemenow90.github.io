@@ -3,10 +3,383 @@
     "apps": [],
     "details": [
       {
+        "appID": "TXR7NRCG98.com.beamhealthcare.provider.app",
+        "paths": [
+          "/appointment/*",
+          "/video-call/*"
+        ],
+        "appIDs": [
+          "TXR7NRCG98.com.beamhealthcare.provider.app",
+          "TXR7NRCG98.com.intouch.provider",
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisitProvider",
+          "TXR7NRCG98.com.intouch.provider.demo"
+        ],
+        "components": [
+          {
+            "/": "/appointment/*"
+          },
+          {
+            "/": "/video-call/*"
+          }
+        ]
+      },
+      {
+        "appID": "TXR7NRCG98.com.intouch.provider",
+        "paths": [
+          "/appointment/*",
+          "/video-call/*"
+        ],
+        "appIDs": [
+          "TXR7NRCG98.com.beamhealthcare.provider.app",
+          "TXR7NRCG98.com.intouch.provider",
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisitProvider",
+          "TXR7NRCG98.com.intouch.provider.demo"
+        ],
+        "components": [
+          {
+            "/": "/appointment/*"
+          },
+          {
+            "/": "/video-call/*"
+          }
+        ]
+      },
+      {
+        "appID": "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisitProvider",
+        "paths": [
+          "/appointment/*",
+          "/video-call/*"
+        ],
+        "appIDs": [
+          "TXR7NRCG98.com.beamhealthcare.provider.app",
+          "TXR7NRCG98.com.intouch.provider",
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisitProvider",
+          "TXR7NRCG98.com.intouch.provider.demo"
+        ],
+        "components": [
+          {
+            "/": "/appointment/*"
+          },
+          {
+            "/": "/video-call/*"
+          }
+        ]
+      },
+      {
+        "appID": "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
+        "paths": [
+          "/*/start/*",
+          "/*/a/*",
+          "/*/*/select-a-service",
+          "/*/*/care-location/*",
+          "/????????-*"
+        ],
+        "appIDs": [
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
+          "Q2HS8T3ZY8.org.bjc.virtual-visit",
+          "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
+          "U73RPMAX5Y.com.mclaren.healthcare.patient",
+          "C24P768PLK.org.childrensmercy.onlinecare.member",
+          "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
+          "TXR7NRCG98.com.truclinic.patient.app",
+          "TXR7NRCG98.com.intouch.patient.demo"
+        ],
+        "components": [
+          {
+            "/": "/*/start/*"
+          },
+          {
+            "/": "/*/a/*"
+          },
+          {
+            "/": "/*/*/select-a-service"
+          },
+          {
+            "/": "/*/*/care-location/*"
+          },
+          {
+            "/": "/????????-*"
+          }
+        ]
+      },
+      {
+        "appID": "Q2HS8T3ZY8.org.bjc.virtual-visit",
+        "paths": [
+          "/*/start/*",
+          "/*/a/*",
+          "/*/*/select-a-service",
+          "/*/*/care-location/*",
+          "/????????-*"
+        ],
+        "appIDs": [
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
+          "Q2HS8T3ZY8.org.bjc.virtual-visit",
+          "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
+          "U73RPMAX5Y.com.mclaren.healthcare.patient",
+          "C24P768PLK.org.childrensmercy.onlinecare.member",
+          "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
+          "TXR7NRCG98.com.truclinic.patient.app",
+          "TXR7NRCG98.com.intouch.patient.demo"
+        ],
+        "components": [
+          {
+            "/": "/*/start/*"
+          },
+          {
+            "/": "/*/a/*"
+          },
+          {
+            "/": "/*/*/select-a-service"
+          },
+          {
+            "/": "/*/*/care-location/*"
+          },
+          {
+            "/": "/????????-*"
+          }
+        ]
+      },
+      {
+        "appID": "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
+        "paths": [
+          "/*/start/*",
+          "/*/a/*",
+          "/*/*/select-a-service",
+          "/*/*/care-location/*",
+          "/????????-*"
+        ],
+        "appIDs": [
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
+          "Q2HS8T3ZY8.org.bjc.virtual-visit",
+          "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
+          "U73RPMAX5Y.com.mclaren.healthcare.patient",
+          "C24P768PLK.org.childrensmercy.onlinecare.member",
+          "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
+          "TXR7NRCG98.com.truclinic.patient.app",
+          "TXR7NRCG98.com.intouch.patient.demo"
+        ],
+        "components": [
+          {
+            "/": "/*/start/*"
+          },
+          {
+            "/": "/*/a/*"
+          },
+          {
+            "/": "/*/*/select-a-service"
+          },
+          {
+            "/": "/*/*/care-location/*"
+          },
+          {
+            "/": "/????????-*"
+          }
+        ]
+      },
+      {
+        "appID": "U73RPMAX5Y.com.mclaren.healthcare.patient",
+        "paths": [
+          "/*/start/*",
+          "/*/a/*",
+          "/*/*/select-a-service",
+          "/*/*/care-location/*",
+          "/????????-*"
+        ],
+        "appIDs": [
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
+          "Q2HS8T3ZY8.org.bjc.virtual-visit",
+          "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
+          "U73RPMAX5Y.com.mclaren.healthcare.patient",
+          "C24P768PLK.org.childrensmercy.onlinecare.member",
+          "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
+          "TXR7NRCG98.com.truclinic.patient.app",
+          "TXR7NRCG98.com.intouch.patient.demo"
+        ],
+        "components": [
+          {
+            "/": "/*/start/*"
+          },
+          {
+            "/": "/*/a/*"
+          },
+          {
+            "/": "/*/*/select-a-service"
+          },
+          {
+            "/": "/*/*/care-location/*"
+          },
+          {
+            "/": "/????????-*"
+          }
+        ]
+      },
+      {
+        "appID": "7N69F949EZ.VMInTouch",
+        "paths": [
+          "/*/start/*",
+          "/*/a/*",
+          "/*/*/select-a-service",
+          "/*/*/care-location/*",
+          "/????????-*"
+        ],
+        "appIDs": [
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
+          "Q2HS8T3ZY8.org.bjc.virtual-visit",
+          "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
+          "U73RPMAX5Y.com.mclaren.healthcare.patient",
+          "C24P768PLK.org.childrensmercy.onlinecare.member",
+          "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
+          "TXR7NRCG98.com.truclinic.patient.app",
+          "TXR7NRCG98.com.intouch.patient.demo"
+        ],
+        "components": [
+          {
+            "/": "/*/start/*"
+          },
+          {
+            "/": "/*/a/*"
+          },
+          {
+            "/": "/*/*/select-a-service"
+          },
+          {
+            "/": "/*/*/care-location/*"
+          },
+          {
+            "/": "/????????-*"
+          }
+        ]
+      },
+      {
+        "appID": "C24P768PLK.org.childrensmercy.onlinecare.member",
+        "paths": [
+          "/*/start/*",
+          "/*/a/*",
+          "/*/*/select-a-service",
+          "/*/*/care-location/*",
+          "/????????-*"
+        ],
+        "appIDs": [
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
+          "Q2HS8T3ZY8.org.bjc.virtual-visit",
+          "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
+          "U73RPMAX5Y.com.mclaren.healthcare.patient",
+          "C24P768PLK.org.childrensmercy.onlinecare.member",
+          "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
+          "TXR7NRCG98.com.truclinic.patient.app",
+          "TXR7NRCG98.com.intouch.patient.demo"
+        ],
+        "components": [
+          {
+            "/": "/*/start/*"
+          },
+          {
+            "/": "/*/a/*"
+          },
+          {
+            "/": "/*/*/select-a-service"
+          },
+          {
+            "/": "/*/*/care-location/*"
+          },
+          {
+            "/": "/????????-*"
+          }
+        ]
+      },
+      {
+        "appID": "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
+        "paths": [
+          "/*/start/*",
+          "/*/a/*",
+          "/*/*/select-a-service",
+          "/*/*/care-location/*",
+          "/????????-*"
+        ],
+        "appIDs": [
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
+          "Q2HS8T3ZY8.org.bjc.virtual-visit",
+          "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
+          "U73RPMAX5Y.com.mclaren.healthcare.patient",
+          "C24P768PLK.org.childrensmercy.onlinecare.member",
+          "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
+          "TXR7NRCG98.com.truclinic.patient.app",
+          "TXR7NRCG98.com.intouch.patient.demo"
+        ],
+        "components": [
+          {
+            "/": "/*/start/*"
+          },
+          {
+            "/": "/*/a/*"
+          },
+          {
+            "/": "/*/*/select-a-service"
+          },
+          {
+            "/": "/*/*/care-location/*"
+          },
+          {
+            "/": "/????????-*"
+          }
+        ]
+      },
+      {
+        "appID": "TXR7NRCG98.com.truclinic.patient.app",
+        "paths": [
+          "/*/start/*",
+          "/*/a/*",
+          "/*/*/select-a-service",
+          "/*/*/care-location/*",
+          "/????????-*"
+        ],
+        "appIDs": [
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
+          "Q2HS8T3ZY8.org.bjc.virtual-visit",
+          "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
+          "U73RPMAX5Y.com.mclaren.healthcare.patient",
+          "C24P768PLK.org.childrensmercy.onlinecare.member",
+          "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
+          "TXR7NRCG98.com.truclinic.patient.app",
+          "TXR7NRCG98.com.intouch.patient.demo"
+        ],
+        "components": [
+          {
+            "/": "/*/start/*"
+          },
+          {
+            "/": "/*/a/*"
+          },
+          {
+            "/": "/*/*/select-a-service"
+          },
+          {
+            "/": "/*/*/care-location/*"
+          },
+          {
+            "/": "/????????-*"
+          }
+        ]
+      },
+      {
         "appID": "TXR7NRCG98.com.intouch.provider.demo",
         "paths": [
           "/appointment/*",
           "/video-call/*"
+        ],
+        "appIDs": [
+          "TXR7NRCG98.com.beamhealthcare.provider.app",
+          "TXR7NRCG98.com.intouch.provider",
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisitProvider",
+          "TXR7NRCG98.com.intouch.provider.demo"
+        ],
+        "components": [
+          {
+            "/": "/appointment/*"
+          },
+          {
+            "/": "/video-call/*"
+          }
         ]
       },
       {
@@ -17,27 +390,34 @@
           "/*/*/select-a-service",
           "/*/*/care-location/*",
           "/????????-*"
+        ],
+        "appIDs": [
+          "L796QSLV3E.ca.bc.gov.health.hlbc.BCVirtualVisit",
+          "Q2HS8T3ZY8.org.bjc.virtual-visit",
+          "WUGMLAU6NB.com.universityofutahhealth.intouchpatient",
+          "U73RPMAX5Y.com.mclaren.healthcare.patient",
+          "C24P768PLK.org.childrensmercy.onlinecare.member",
+          "H79EHSDU77.org.wyomingmedicalcenter.app.telemed",
+          "TXR7NRCG98.com.truclinic.patient.app",
+          "TXR7NRCG98.com.intouch.patient.demo"
+        ],
+        "components": [
+          {
+            "/": "/*/start/*"
+          },
+          {
+            "/": "/*/a/*"
+          },
+          {
+            "/": "/*/*/select-a-service"
+          },
+          {
+            "/": "/*/*/care-location/*"
+          },
+          {
+            "/": "/????????-*"
+          }
         ]
-      }
-    ],
-    "appIDs": [
-      "TXR7NRCG98.com.intouch.patient.demo"
-    ],
-    "components": [
-      {
-        "/": "/*/start/*"
-      },
-      {
-        "/": "/*/a/*"
-      },
-      {
-        "/": "/*/*/select-a-service"
-      },
-      {
-        "/": "/*/*/care-location/*"
-      },
-      {
-        "/": "/????????-*"
       }
     ]
   }
